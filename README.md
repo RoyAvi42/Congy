@@ -24,3 +24,6 @@ Business
 Democratic
 Courts and Laws
 Hospitals
+Temples
+Cinema Halls
+Tea Shops and Coffe shops
